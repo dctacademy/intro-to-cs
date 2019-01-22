@@ -29,6 +29,7 @@ A list of recommended tutorials for anyone who wants to learn computer science. 
 5. [Udacity's Course on Software Testing](https://www.udacity.com/course/software-testing--cs258)
 
 # Important Links (Exhaustive)
+* https://github.com/charlax/professional-programming
 * https://github.com/ossu/computer-science
 * https://github.com/mvillaloboz/open-source-cs-degree
 * https://github.com/TEALSK12/introduction-to-computer-science
