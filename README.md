@@ -5,9 +5,9 @@ A list of recommended tutorials for anyone who wants to learn computer science. 
 # Important Algorithms and Data Structures
 
 * Basic
-    * Bubble Sort: [Tutorial](https://www.geeksforgeeks.org/bubble-sort/) | [Video](https://www.youtube.com/watch?v=j5uXyPJ0Pew&list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j)
-    * Insertion Sort: [Tutorial](https://www.geeksforgeeks.org/insertion-sort/) | [Video](https://www.youtube.com/watch?v=j5uXyPJ0Pew&list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j)
-    * Selection Sort: [Tutorial](https://www.geeksforgeeks.org/selection-sort/) | [Video](https://www.youtube.com/watch?v=j5uXyPJ0Pew&list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j)
+    * Bubble Sort: [Tutorial](https://www.geeksforgeeks.org/bubble-sort/) | [Video](https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
+    * Insertion Sort: [Tutorial](https://www.geeksforgeeks.org/insertion-sort/) | [Video](https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
+    * Selection Sort: [Tutorial](https://www.geeksforgeeks.org/selection-sort/) | [Video](https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
     * Linear Search: [Tutorial](https://www.geeksforgeeks.org/linear-search/) | [Video](https://www.youtube.com/watch?v=TwsgCHYmbbA)
     * Binary Search: [Tutorial](https://www.geeksforgeeks.org/binary-search/) | [Video](https://www.youtube.com/watch?v=j5uXyPJ0Pew&list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j)
     * Stack: [Tutorial](https://www.geeksforgeeks.org/stack-data-structure/) | [Video](https://www.youtube.com/watch?v=Ns7tGNbtvV4)
