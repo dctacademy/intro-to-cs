@@ -35,3 +35,4 @@ A list of recommended tutorials for anyone who wants to learn computer science. 
 * https://github.com/TEALSK12/introduction-to-computer-science
 * https://github.com/Developer-Y/cs-video-courses
 * https://github.com/prakhar1989/awesome-courses
+* https://free-for.dev/
